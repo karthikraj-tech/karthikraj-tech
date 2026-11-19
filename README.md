@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**karthikraj-tech/karthikraj-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Karthikraj S 👋
 
-Here are some ideas to get you started:
+### Aspiring AI Engineer | CSE Undergraduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science and Engineering student at Rajalakshmi Institute of Technology, Chennai.
+
+💻 Interested in Artificial Intelligence, Python and Software Development.
+
+🌱 Currently learning:
+- Python Programming
+- Java
+- Web Development
+- MySQL and MongoDB
+- Artificial Intelligence and Machine Learning
+
+🛠️ Tools:
+- VS Code
+- Git and GitHub
+
+🎯 Goal: Build practical projects and grow as an AI Engineer.
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/karthikraj-s-22725a33a/
+
